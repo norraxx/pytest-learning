@@ -1,0 +1,7 @@
+[requires]
+
+[packages]
+
+[dev-packages]
+pytest = "*"
+pytest-cov = "*"
